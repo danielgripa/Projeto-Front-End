@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-mexi no computador local
+Testar se o gitignore vai ignorar o excel
