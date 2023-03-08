@@ -1,1 +1,1 @@
-Testar se o gitignore vai ignorar o excel
+Agora tudo foi resolvido
